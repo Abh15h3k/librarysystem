@@ -1,1 +1,1 @@
-[embed]https://drive.google.com/file/d/1bCgdXuUPfljDcd204otcifcdg5IeIhcl/view[/embed]
+[embed]https://github.com/Abh15h3k/librarysystem/blob/master/description.pdf[/embed]
